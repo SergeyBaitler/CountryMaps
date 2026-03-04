@@ -1,0 +1,25 @@
+[
+  {
+    "code": "OFF001",
+    "cityCode": 123,
+    "uuid": "3e6a6aa4-9c1d-4c4d-b41b-0e2f79df0001",
+    "type": "Terminal",
+    "countryCode": "RU",
+    "coordinates": {
+      "latitude": 55.7558,
+      "longitude": 37.6176
+    },
+    "address": {
+      "country": "Russia",
+      "city": "Moscow",
+      "street": "Tverskaya",
+      "house": "1"
+    },
+    "workTime": "Mon-Fri 09:00-18:00",
+    "phones": [
+      { "number": "+7 495 000-00-01", "comment": "main" },
+      { "number": "+7 495 000-00-02", "comment": "support" }
+    ]
+  }
+]
+
